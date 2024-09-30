@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wasiq Nauman | Software Engineer | Machine Learning"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
